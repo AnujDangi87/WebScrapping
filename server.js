@@ -9,8 +9,8 @@ const socketIo = require('socket.io');
 const config = {
   port: 3000,
   url: 'https://alumni.uohyd.ac.in/members',//Mine email is being used as gmail account so i can't use my own i am using my friends email id
-  email: '23mcce15@uohyd.ac.in', // Replace with your actual email
-  password: 'Chandan@2004', // Using the password from your original code
+  email: '23mcce16@uohyd.ac.in', // Replace with your actual email
+  password: 'yourPassword', // Using the password from your original code
   outputFile: './alumni_data.json',
   logProgress: true,
   debugMode: true // Enable debugging features
